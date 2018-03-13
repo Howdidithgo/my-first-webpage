@@ -1,0 +1,25 @@
+h1{
+  color: #00F;
+  font-family: serif;
+  font-style: normal;
+  text-align: center;
+}
+h2{
+  color: #00F;
+  font-family:serif;
+  text-align: center;
+}
+p {
+  color: #00F;
+  font-family: serif;
+  font-style: italic;
+  text-align: center;
+  font-size: 25px;
+}
+li {
+  font-weight: bold;
+}
+img {
+  height: 300px;
+  width: auto;
+}
